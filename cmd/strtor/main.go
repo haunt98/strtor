@@ -10,7 +10,7 @@ import (
 func main() {
 	args := os.Args
 	if len(args) != 2 {
-		fmt.Println(`go run main.go "Your string goes here"`)
+		fmt.Println(`go run ./cmd/strtor/main.go "Your string goes here"`)
 		return
 	}
 
