@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/haunt98/strtor/internal/normalize"
+	"github.com/haunt98/strtor/normalize"
 )
 
 func main() {
